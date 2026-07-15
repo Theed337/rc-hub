@@ -1,0 +1,13 @@
+{
+  "name": "@rc-hub/application",
+  "version": "0.0.0",
+  "private": true,
+  "description": "RC Hub — Application Layer (Use Cases)",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "scripts": {
+    "typecheck": "echo 'Scaffold pending'",
+    "lint": "echo 'Scaffold pending'",
+    "test": "echo 'Scaffold pending'"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "@rc-hub/admin",
+  "version": "0.0.0",
+  "private": true,
+  "description": "RC Hub — Admin Dashboard",
+  "scripts": {
+    "dev": "echo 'Scaffold pending'",
+    "build": "echo 'Scaffold pending'",
+    "lint": "echo 'Scaffold pending'",
+    "typecheck": "echo 'Scaffold pending'"
+  }
+}

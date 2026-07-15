@@ -1,0 +1,13 @@
+{
+  "name": "@rc-hub/domain",
+  "version": "0.0.0",
+  "private": true,
+  "description": "RC Hub — Domain Layer (Entities, Ports)",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "scripts": {
+    "typecheck": "echo 'Scaffold pending'",
+    "lint": "echo 'Scaffold pending'",
+    "test": "echo 'Scaffold pending'"
+  }
+}
